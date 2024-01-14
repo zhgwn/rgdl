@@ -1,0 +1,4 @@
+aiofiles
+tqdm
+argparse
+httpx
